@@ -1,4 +1,4 @@
-# Amazon-project-using-Pandas
+# Amazon-Sales-Analysis-using-Pandas
 Data Analysis with Pandas: MySQL Database
 
 Overview
